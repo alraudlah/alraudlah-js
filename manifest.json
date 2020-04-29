@@ -1,37 +1,38 @@
-	
-name	"Anjungan Informasi MI Al Raudlah"
-short_name	"Anjungan MI Al Raudlah"
-start_url	"https://akad.mi-alraudlah.sch.id/"
-display	"standalone"
-background_color	"#fff"
-theme_color	"#C51162"
-description	"Informasi Pengumuman Penting Seputar Kegiatan Madrasah"
-icons	
-0	
-src	"https://1.bp.blogspot.com/-HdTc8IdsGv8/XnN8sV3O7eI/AAAAAAAAFX8/dRhP3kQnjG8whph6TVr9vOt9Qd_iR6T3ACLcBGAsYHQ/s1600/android-icon-48x48.png"
-sizes	"48x48"
-type	"image/png"
-1	
-src	"https://1.bp.blogspot.com/-BxGONHJE0_A/XnN8spn3krI/AAAAAAAAFYA/EE53fxSFs-Ax109b_5U9QdKMXS8NGmNeACLcBGAsYHQ/s1600/android-icon-72x72.png"
-sizes	"72x72"
-type	"image/png"
-2	
-src	"https://1.bp.blogspot.com/-Xjpu5kftx2k/XnN8s7qSGPI/AAAAAAAAFYE/wN2gxwzEAu4iquORgVie2Ki3_SDzEoCRQCLcBGAsYHQ/s1600/android-icon-96x96.png"
-sizes	"96x96"
-type	"image/png"
-3	
-src	"https://1.bp.blogspot.com/-Xz2uHt1ae50/XnN8rTPsi0I/AAAAAAAAFXw/Wkn1pfZZ1UMwt0U8sQrjZEqv9XfHFb7zgCLcBGAsYHQ/s1600/android-icon-144x144.png"
-sizes	"144x144"
-type	"image/png"
-4	
-src	"https://1.bp.blogspot.com/-I9DXc25DdFg/XnN8thbGoSI/AAAAAAAAFYU/2mVkKday2sYGSQisqJ9o60g3x4NGfouiwCLcBGAsYHQ/s1600/apple-icon-152x152.png"
-sizes	"168x168"
-type	"image/png"
-5	
-src	"https://1.bp.blogspot.com/-Nr3IZcFSqhI/XnN8rV1DKYI/AAAAAAAAFX0/GPbNAhkGgPAxNs_UdgVCR0BiR7O34dUCgCLcBGAsYHQ/s1600/android-icon-192x192.png"
-sizes	"192x192"
-type	"image/png"
-6	
-src	"https://1.bp.blogspot.com/-7byMHe1rRJE/XnN8xegvQ9I/AAAAAAAAFZM/WvlmTVJ2WVs8ULrhmYAnUbOgSh_Kdt8hQCLcBGAsYHQ/s1600/ms-icon-310x310.png"
-sizes	"512x512"
-type	"image/png"
+{
+  "name": "Anjungan Informasi MI Al Raudlah",
+  "short_name": "Anjungan MI Al Raudlah",
+  "start_url": "https://anjungan.mi-alraudlah.sch.id/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Informasi dan Pengumuman Penting Seputar Kegiatan di Madrasah",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-HdTc8IdsGv8/XnN8sV3O7eI/AAAAAAAAFX8/dRhP3kQnjG8whph6TVr9vOt9Qd_iR6T3ACLcBGAsYHQ/s1600/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-BxGONHJE0_A/XnN8spn3krI/AAAAAAAAFYA/EE53fxSFs-Ax109b_5U9QdKMXS8NGmNeACLcBGAsYHQ/s1600/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Xjpu5kftx2k/XnN8s7qSGPI/AAAAAAAAFYE/wN2gxwzEAu4iquORgVie2Ki3_SDzEoCRQCLcBGAsYHQ/s1600/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Xz2uHt1ae50/XnN8rTPsi0I/AAAAAAAAFXw/Wkn1pfZZ1UMwt0U8sQrjZEqv9XfHFb7zgCLcBGAsYHQ/s1600/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-I9DXc25DdFg/XnN8thbGoSI/AAAAAAAAFYU/2mVkKday2sYGSQisqJ9o60g3x4NGfouiwCLcBGAsYHQ/s1600/apple-icon-152x152.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Nr3IZcFSqhI/XnN8rV1DKYI/AAAAAAAAFX0/GPbNAhkGgPAxNs_UdgVCR0BiR7O34dUCgCLcBGAsYHQ/s1600/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-7byMHe1rRJE/XnN8xegvQ9I/AAAAAAAAFZM/WvlmTVJ2WVs8ULrhmYAnUbOgSh_Kdt8hQCLcBGAsYHQ/s1600/ms-icon-310x310.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
